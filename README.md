@@ -73,8 +73,9 @@ I'm currently strengthening my expertise in:
 
 - Microsoft Azure Administrator (AZ-104) — In Progress
 - Certified Kubernetes Administrator (CKA) — In Progress
+- AWS Certified Cloud Practitioner (CLF-C02) - In Progress
 - Kubernetes Hands-On Training Kode-Kloud
-- Networking / CCNA Studies
+- Networking / Cisco CCNA Studies
 - GNU/Linux Server Administration
 - B.S. Computer Systems Engineering — Final Year
 
